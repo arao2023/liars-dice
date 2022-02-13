@@ -1,0 +1,7 @@
+build/
+playground/
+pem/
+*emscripten.html
+*emscripten.js
+*emscripten.wasm
+*emscripten.data
